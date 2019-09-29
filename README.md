@@ -3,5 +3,5 @@
 ```markdown
 
 
-See my first project(Women_in_the_Global_Workforce.ipynb)
+See my first project(https://github.com/pgkramer/portfolio.git/Women_in_the_Global_Workforce.ipynb)
 ```
